@@ -40,6 +40,10 @@
 
 기말고사
 
----
+## 백준
+
+[백준 사이트 바로가기](https://www.acmicpc.net/)
+
+Problem solving 사이트 백준을 사용해서 일부 과제를 출제합니다.
 
 
